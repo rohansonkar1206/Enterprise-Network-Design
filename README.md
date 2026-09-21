@@ -2,7 +2,7 @@
 
 A multi-site enterprise network designed and implemented in Cisco Packet Tracer, connecting three branch offices with VLAN segmentation, dynamic routing, and ACL-based security policy enforcement.
 
-![Network Topology Diagram](network-design-diagram.png,network-design-diagram-.png)
+![Network Topology Diagram](network-design-diagram.png)
 
 ## Overview
 
